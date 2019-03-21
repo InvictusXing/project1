@@ -1,3 +1,1 @@
-# project1
-
-## only demo 
+### application folder contains the application itself
